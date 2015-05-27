@@ -1,0 +1,38 @@
+/***** Custom Bootstrape stying***********/
+.margin-no{
+    margin-top: -5px;
+}
+.customization .overlay{
+    padding: 10px 20px;
+}
+.customization .overlay h1{
+    margin-top: 0px;
+}
+.biothumb .overlay h1{
+    font-size: 40px
+}
+.style-container{
+    display: none !important;
+}
+ul#navigation li.external:hover .icon, ul#navigation li.currentmenu .icon{
+    color:#A3E1FF !important;
+}
+ul.ul-dates div.dates, ul.ul-dates-gray div.dates {
+  float: left;
+  width: 82px;
+}
+ul.ul-card li .dy .year {
+/*  background-color: #03cc85;
+  width: 100px;
+  display: inline-block;*/
+}
+ul.ul-card li .dy .degree {
+/*  background-color: #03bb7a;
+  width: 187px;
+  display: inline-block;*/
+}
+ul.ul-card li .dy span {
+/*  padding: 2px 10px;
+  line-height: 30px;
+  margin: 0;*/
+}
